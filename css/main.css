@@ -1,0 +1,11 @@
+.block__left {
+  width: 30%;
+  overflow: auto;
+  float: left;
+}
+
+.block__right {
+  width: 70%;
+  overflow: auto;
+  float: right;
+}/*# sourceMappingURL=main.css.map */
