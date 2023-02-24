@@ -21,9 +21,21 @@
     color: #355681;
 }
 
-techSkills__list {
-    margin-top: 15px;
+.techSkills__list {
+    margin-top: 0px;
+    margin-bottom: 0;
     padding-bottom: 15px;
+
+    font-weight: 600;
+    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Muli', sans-serif;
+    position: relative;
+    font-size: 18px;
+    line-height: 20px;
+    color: #788699;
 }
-// techSkills__item {
-// }
+
+.techSkills__item {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
