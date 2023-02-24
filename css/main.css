@@ -1,13 +1,37 @@
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 25px;
+}
+
 .block__left {
-  width: 30%;
+  width: 35%;
   overflow: auto;
   float: left;
   padding-left: 15px;
+  padding-right: 15px;
 }
 
 .block__right {
-  width: 65%;
+  width: 60%;
   overflow: auto;
   float: right;
   padding-left: 15px;
+  padding-right: 15px;
+}
+
+.contactInformation__img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contactInformation__title {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }/*# sourceMappingURL=main.css.map */

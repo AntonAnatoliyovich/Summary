@@ -1,20 +1,19 @@
-// contactInformation {
+// .contactInformation {
 // }
-// contactInformation__img {
-// }
-// contactInformation__title {
-// }
-// contactInformation__phone {
-// }
+
+.contactInformation__img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contactInformation__title {
+    display: flex;
+    justify-content: center;
+}
+
 // contactInformation__link {
 // }
-// contactInformation__telegram {
-// }
-// contactInformation__mail {
-// }
-// contactInformation__linkedin {
-// }
-// contactInformation__github {
-// }
-// contactInformation__city {
+
+// contactInformation__text {
 // }

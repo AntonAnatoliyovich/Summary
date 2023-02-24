@@ -1,13 +1,20 @@
+.container {
+    display: flex;
+    margin: 25px;
+}
+
 .block__left {
-    width: 30%;
+    width: 35%;
     overflow: auto;
     float: left;
     padding-left: 15px;
+    padding-right: 15px;
 }
 
 .block__right {
-    width: 65%;
+    width: 60%;
     overflow: auto;
     float: right;
     padding-left: 15px;
+    padding-right: 15px;
 }
