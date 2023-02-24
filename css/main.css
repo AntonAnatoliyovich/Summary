@@ -209,4 +209,47 @@
 .languages__item {
   margin-top: 10px;
   margin-bottom: 10px;
+}
+
+.information {
+  -webkit-box-shadow: inset 0 0 0 1px rgba(53, 86, 129, 0.4), inset 0 0 5px rgba(53, 86, 129, 0.5), inset -285px 0 35px white;
+          box-shadow: inset 0 0 0 1px rgba(53, 86, 129, 0.4), inset 0 0 5px rgba(53, 86, 129, 0.5), inset -285px 0 35px white;
+  border-radius: 0 10px 0 10px;
+}
+
+.information__name {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-bottom: 15px;
+  margin-top: 0;
+  padding-top: 15px;
+  font-weight: 600;
+  font-family: "Titillium Web", sans-serif;
+  position: relative;
+  font-size: 30px;
+  line-height: 40px;
+  color: #355681;
+}
+
+.information__position {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 0px;
+  margin-bottom: 0;
+  padding-bottom: 15px;
+  font-weight: 600;
+  font-family: "Titillium Web", sans-serif;
+  font-family: "Muli", sans-serif;
+  position: relative;
+  font-size: 18px;
+  line-height: 20px;
+  color: #788699;
 }/*# sourceMappingURL=main.css.map */
