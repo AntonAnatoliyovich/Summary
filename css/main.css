@@ -58,28 +58,20 @@
 }
 
 .contactInformation__link {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  padding-left: 35px;
+  padding-right: 35px;
   font-weight: 600;
   font-family: "Titillium Web", sans-serif;
   font-family: "Muli", sans-serif;
   position: relative;
   font-size: 18px;
-  line-height: 20px;
+  line-height: 30px;
   color: #788699;
 }
 
 .contactInformation__text {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  padding-left: 35px;
+  padding-right: 35px;
   padding-bottom: 15px;
   margin: 0;
   font-weight: 600;
@@ -87,7 +79,7 @@
   font-family: "Muli", sans-serif;
   position: relative;
   font-size: 18px;
-  line-height: 20px;
+  line-height: 30px;
   color: #788699;
 }
 
